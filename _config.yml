@@ -1,0 +1,14 @@
+layout_spectrum: 0.702509
+color:
+  saturation: 0.1030763
+  brandStrength: 0.7744609
+  lightness: 0.9444444
+  rhythmicContrast: 0.3189964
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+typography_spectrum: 0.6863799
+name: Swanich
